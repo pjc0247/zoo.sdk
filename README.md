@@ -24,6 +24,12 @@ await signInWithGoogle(googleToken);
 await signInWithKakao(kakaoToken);
 ```
 
+## concept.SiteValue
+
+```tsx
+const values = useSiteValues();
+```
+
 ## concept.Board
 
 ```tsx
